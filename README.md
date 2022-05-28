@@ -1,2 +1,2 @@
 # Tugas Template
-Tugas tempate buat biografi, pakai nicepage.com editor
+Tugas tempatle buat biografi, pakai nicepage.com editor
